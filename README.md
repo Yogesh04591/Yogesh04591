@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm completed a B.Tech degree in **Artificial Intelligence & Data Science** at Muthayammal Engineering College. I am passionate about solving real-world problems using deep learning and building scalable web applications. I strive to contribute to open-source projects and constantly enhance my skill set.
+I have completed my B.Tech in **Artificial Intelligence & Data Science** at Muthayammal Engineering College. I am passionate about solving real-world problems using deep learning and building scalable web applications. I strive to contribute to open-source projects and constantly enhance my skill set.
 
 ---
 
