@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I have completed my B.Tech in **Artificial Intelligence & Data Science** at Muthayammal Engineering College. I am passionate about solving real-world problems using deep learning and building scalable web applications. I strive to contribute to open-source projects and constantly enhance my skill set.
+I’m a Full Stack Python Developer with hands-on experience in building AI-powered tools, automation workflows, and modern web applications. I specialize in Python, Linux, Docker, n8n, LangGraph, data analytics, and creating intelligent systems using LLMs. I enjoy solving real-world problems through automation, clean backend architecture, and scalable solutions.
 
 ---
 
@@ -47,13 +47,25 @@ A user-friendly web app that shows weather forecasts to assist users in planning
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
+**DevOps & Deployment**:  
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+
+**AI Automation Tools**:  
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>   <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=protocols.io&logoColor=white"/>   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>   <img src="https://img.shields.io/badge/LLM_AI-000000?style=flat&logo=openai&logoColor=white"/>   <img src="https://img.shields.io/badge/n8n-AE4EFF?style=flat&logo=n8n&logoColor=white"/>   <img src="https://img.shields.io/badge/Automation-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+
 **Web & Scripting**:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
 
 **Tools & IDEs**:  
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+
+**Database**:  
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 **Operating System**:  
 
